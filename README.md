@@ -1,5 +1,4 @@
 # SQL Engine
-TextQL technical take-home assignment, Fall 2024.
 
 ## To run as a binary:
 - Navigate to `sql_engine/dist/`.

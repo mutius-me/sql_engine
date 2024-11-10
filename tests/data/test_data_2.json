@@ -1,0 +1,7 @@
+[
+    {"name": "Alice", "age": -5, "salary": 55000, "region": "North"},
+    {"name": "Bob", "age": 32, "salary": 70000, "region": "South"},
+    {"name": "Charlie", "age": 28, "salary": 40000, "region": "West"},
+    {"name": "Diana", "age": 29, "salary": 60000, "region": "North"},
+    {"name": "Eve", "age": "31", "salary": 50000, "region": "East"}
+]

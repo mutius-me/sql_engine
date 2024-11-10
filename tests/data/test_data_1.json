@@ -1,0 +1,6 @@
+[
+    {"state": "California", "population": 39538220, "region": "West"},
+    {"state": "Texas", "population": 29145505, "region": "South"},
+    {"state": "Florida", "population": 21538187, "region": "South"},
+    {"state": "New York", "population": 20201249, "region": "Northeast"}
+]

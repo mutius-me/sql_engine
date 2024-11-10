@@ -4,11 +4,11 @@ version = "0.1.0"
 description = "Fall 2024 technical take-home assignment for TextQL."
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = [
-        "ruff>=0.7.0",
-]
+dependencies = []
 
 [tool.uv]
 dev-dependencies = [
     "pytest>=8.2.2",
+    "ruff>=0.7.0",
+    "pyinstaller",
 ]

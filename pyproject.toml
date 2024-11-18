@@ -1,7 +1,6 @@
 [project]
-name = "textql_sql_query_engine"
-version = "0.1.0"
-description = "Fall 2024 technical take-home assignment for TextQL."
+name = "SQL_Engine"
+version = "1.0.0"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
